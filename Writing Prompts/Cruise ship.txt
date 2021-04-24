@@ -35,7 +35,7 @@ A frighteningly loud DING preceded the doors whisking open, revealing the desert
 Suddenly, I kicked into action, grabbing a few maps, some pens and clearing off a table at the adjacent cafe.
 "Ok so I guess it makes sense to check whether the ship's actually got someone at the helm. And I suppose there might be a radio or something that'll do better than my mobile phone in the middle of the ocean."
 Then a thought crashed into me with the force of a ship crashing into an iceberg, and then this new terrifying thought took over from that thought for a moment.
-"There aren't any icebergs in the Caribbean. I'm in the Caribbean, right? ...Yes; it's on the side of the ship."
+"There aren't any icebergs in the Caribbean. I'm in the Caribbean, right? ...Yes; it's written on the side of the ship."
 Now what was that prior thought again?
 "WiFi!"
 I knew my phone didn't have reception out here, but there was free wifi across the whole ship. How had it taken till now for me to remember this? I slapped about my pockets trying to find my phone, with speed and ferocity that would arouse any and all slap-dancing enthusiasts.
@@ -74,6 +74,16 @@ My hand, which until this point still hadn't located that next handrail, found i
 The almost-silence had been broken by the impact, and what seemed like a deafening sound echoed up and down the corridor.
 In that moment, I realised I had, rationally or otherwise, been staring ahead this whole time as a lookout for anyone -- or anything -- that might be looking for anyone left on the ship. Although I had reasoned a moment earlier that the ship had likely been evacuated for something like a bomb scare, and thus anyone currently on the ship would be some kind of authority that would only have my best interests at heart, I nonetheless decided, in that moment, that I was instead being hunted by some kind of creature, and had now given my position away.
 With surprising dexterity, my still sore hand grasped the handrail, I marched several steps forward, found the door, and inserted my keycard with the kind of accuracy that a credit-card wielding shop-a-holic would be proud of. The door unlocked, and a moment later I was in the room with the door fastened behind me.
-Now there was no light whatsoever, save for a faint red light next to me that highlighted the main light switch. While in my mind it makes sense to save money on a cabin by going windowless (how long do you really spend in your room on a cruise ship?), I was somewhat regretting that decision now. Were there a window here, I could at least get an idea of where I was. If I could only see some signs of life outside the ship -- people or boats moving about -- I couldn't help but think I would be immensely relieved.
+Now there was no light whatsoever, save for a faint red light next to me that highlighted the main light switch. While in my mind it makes sense to save money on a cabin by going windowless (how long do you really spend in your room on a cruise ship?), I was, in this briefest of moments, somewhat regretting that decision. Were there a window here, I could at least get an idea of where the ship was. If I could only see some signs of life outside the ship -- people or boats moving about -- I couldn't help but think I would be immensely relieved.
 Nonetheless, there were more pressing issues now.
 "Let there be light," I muttered divinely as I flicked the light switch. The light flooded the room and eyes squinted painfully as they tried to adjust to the sudden change. As the room came into focus, my eyes found my phone, lying, almost posed, in the centre of the bed.
+I reached for it, tentatively, almost expecting something to happen. It was one of those "It's quiet ... too quiet" sort of moments.
+"What am I worried about? The only thing that can really go disasterously wrong now is that the battery is dead."
+...Even for the non-supersticious, such as myself, there are moments, like this one, where it is against better judgement to push your luck.
+"Why do I say things? Well I guess because I think the thing and then I'm saying what I'm thinking."
+"CHECK THE FUCKING PHONE ALREADY."
+This was the first under-my-breath muttering that I had spoken at a normal volume and I took myself by surprise, feeling sheepish amost as though someone else had just shouted at me.
+I tapped the screen and, to great cheers and celebration, it illuminated.
+"See? Not a thing to worry about. Oh what's this."
+A question mark next to the WiFi symbol is not always a great sign. Casual troubleshooting kicked in and I disabled and then re-enabled WiFi.
+
